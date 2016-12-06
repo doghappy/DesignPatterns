@@ -44,11 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Cash.cs" />
-    <Compile Include="CashFactory.cs" />
+    <Compile Include="CashContext.cs" />
     <Compile Include="CashNormal.cs" />
     <Compile Include="CashRebate.cs" />
     <Compile Include="CashReturn.cs" />
-    <Compile Include="CashType.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
