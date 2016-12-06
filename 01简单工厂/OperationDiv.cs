@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace _01简单工厂
 {
-    class OperationSub : Operation
+    class OperationDiv : Operation
     {
         public override double Result
         {
-            get { return NumberA - NumberB; }
+            get { return NumberA / NumberB; }
         }
     }
 }

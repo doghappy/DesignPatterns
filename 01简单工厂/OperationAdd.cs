@@ -8,10 +8,6 @@ namespace _01简单工厂
 {
     class OperationAdd:Operation
     {
-        public OperationAdd(double a, double b) : base(a, b)
-        {
-        }
-
         public override double Result
         {
             get { return NumberA + NumberB; }
