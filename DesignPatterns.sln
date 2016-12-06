@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04代理模式", "04代理�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05工厂方法", "05工厂方法\05工厂方法.csproj", "{7A73F307-0F15-45B3-BD47-A1C7F6582EDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06原型模式", "06原型模式\06原型模式.csproj", "{F04950EE-3C51-4563-9D31-8F699AF5CFB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7A73F307-0F15-45B3-BD47-A1C7F6582EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A73F307-0F15-45B3-BD47-A1C7F6582EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A73F307-0F15-45B3-BD47-A1C7F6582EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F04950EE-3C51-4563-9D31-8F699AF5CFB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04950EE-3C51-4563-9D31-8F699AF5CFB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04950EE-3C51-4563-9D31-8F699AF5CFB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04950EE-3C51-4563-9D31-8F699AF5CFB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
