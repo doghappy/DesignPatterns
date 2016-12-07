@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06原型模式", "06原型�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07模板方法", "07模板方法\07模板方法.csproj", "{F1774F68-AE97-490E-8D90-A3E89F9C2773}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08外观模式", "08外观模式\08外观模式.csproj", "{6E0909ED-2594-48CC-B3FA-699DEF54DBA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F1774F68-AE97-490E-8D90-A3E89F9C2773}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1774F68-AE97-490E-8D90-A3E89F9C2773}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1774F68-AE97-490E-8D90-A3E89F9C2773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E0909ED-2594-48CC-B3FA-699DEF54DBA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E0909ED-2594-48CC-B3FA-699DEF54DBA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E0909ED-2594-48CC-B3FA-699DEF54DBA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E0909ED-2594-48CC-B3FA-699DEF54DBA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
