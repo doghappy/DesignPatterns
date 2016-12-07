@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09建造者模式", "09建�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10观察者模式", "10观察者模式\10观察者模式.csproj", "{DAF40EFB-788E-48F5-A33F-864E9F6B67A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11状态模式", "11状态模式\11状态模式.csproj", "{CAF7B025-17ED-4DFB-9D57-57710DDA798D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{DAF40EFB-788E-48F5-A33F-864E9F6B67A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAF40EFB-788E-48F5-A33F-864E9F6B67A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAF40EFB-788E-48F5-A33F-864E9F6B67A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAF7B025-17ED-4DFB-9D57-57710DDA798D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF7B025-17ED-4DFB-9D57-57710DDA798D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF7B025-17ED-4DFB-9D57-57710DDA798D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF7B025-17ED-4DFB-9D57-57710DDA798D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
