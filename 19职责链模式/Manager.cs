@@ -10,7 +10,7 @@ namespace _19职责链模式
     {
         public string Name { get; private set; }
 
-        public Manager(string name)
+        protected Manager(string name)
         {
             Name = name;
         }

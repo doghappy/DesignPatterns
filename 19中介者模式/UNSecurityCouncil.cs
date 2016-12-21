@@ -18,7 +18,7 @@ namespace _19中介者模式
         {
             if(country==USA)
             {
-                //如果发表声明的郭家使USA，伊拉克应该收到消息。
+                //如果发表声明的国家使USA，伊拉克应该收到消息。
                 Iraq.GetMessage(message);
             }
             else
