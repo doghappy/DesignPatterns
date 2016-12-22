@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace _05工厂方法
 {
     /// <summary>
-    /// 学雷锋地大学生
+    /// 学雷锋的大学生
     /// </summary>
     class Undergraduate : LeiFeng
     {
