@@ -11,12 +11,12 @@ namespace _10观察者模式
         static void Main(string[] args)
         {
             Boss boss = new Boss();
-            Observer ts1 = new GuoJingObserver("郭靖", boss);
-            Observer ts2 = new HuangRongObserver("黄蓉", boss);
+            Observer o1 = new GuoJingObserver("郭靖", boss);
+            Observer o2 = new HuangRongObserver("黄蓉", boss);
 
-            boss.Attach(ts1);
-            boss.Attach(ts2);
-            //boss.Detach(ts2);
+            boss.Attach(o1);
+            boss.Attach(o2);
+            //boss.Detach(o2);
 
             boss.SubjectState = "我金轮回来了";
             boss.Notify();

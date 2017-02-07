@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace _19中介者模式
 {
     /// <summary>
-    /// 联合国
+    /// 联合国：抽象的中介者
     /// </summary>
     abstract class UnitedNations
     {

@@ -24,6 +24,7 @@ namespace _18命令模式
 
             //点菜完毕，通知厨房。
             girl.Notify();
+            girl.CancelOrder(cmd2);
 
             Console.ReadKey();
         }

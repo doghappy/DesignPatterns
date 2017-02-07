@@ -16,9 +16,9 @@ namespace _19中介者模式
 
         public override void Declare(string message, Country country)
         {
-            if(country==USA)
+            if(country == USA)
             {
-                //如果发表声明的国家使USA，伊拉克应该收到消息。
+                //如果发表声明的国家是USA，伊拉克应该收到消息。
                 Iraq.GetMessage(message);
             }
             else
